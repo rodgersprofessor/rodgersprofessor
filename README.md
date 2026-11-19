@@ -14,7 +14,7 @@
 
 ### `$ whoami`
 
-I teach and build at the intersection of **networks, cryptography, blockchain and AI**.
+I teach and build at the intersection of **networks, cybersecurity, cryptography, blockchain and AI**.
 Currently a **Visiting Professor** in the Department of AI & Computer Engineering at Tongmyong University (Busan, Korea), an Assistant Lecturer at Africa International University (Nairobi, Kenya), and a **PhD candidate in IT Convergence & Applied Engineering**.
 Before academia I spent years keeping real networks alive — LAN/WAN, VPNs, firewalls, cloud migrations.
 
