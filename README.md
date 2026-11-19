@@ -97,26 +97,18 @@ for idx, period, data in blocks:
 
 ### 🧪 Labs & projects
 
-| Project | What it is | Stack |
+| Project | Stack | Role |
 |---|---|---|
-| [Blockchain & ML Framework for Detecting Cloned and Refilled Alcohol](https://github.com/rodgersprofessor/Blockchain-and-ML-Framework-for-Detecting-Cloned-and-Refilled-Alcohol) | A permissioned blockchain + machine-learning framework for detecting cloned and refilled alcohol in low-enforcement-capacity markets | HTML · MIT |
-| [your-erasmus-guide](https://github.com/rodgersprofessor/your-erasmus-guide) | *One-line description here* | TypeScript |
-| 🔒 `blockchainlive` | Live-coding repo for my blockchain classes | Python |
-| 🔒 `blockdemo` | Practice demos for the blockchain course, before they go public | Python |
-
+| [Blockchain & ML Framework for Detecting Cloned and Refilled Alcohol](https://github.com/rodgersprofessor/Blockchain-and-ML-Framework-for-Detecting-Cloned-and-Refilled-Alcohol) | HTML · MIT | Main |
+| [Beyond Efficiency: A Socio-Technical Framework and Exploratory Evidence for Community-Aware AI Data Center Siting in South Korea](https://github.com/torjoymorshad/beyond-efficiency-siting) | Python | Contributor |
+| [Portable AI-Based Driver Drowsiness and Distraction Detection System](https://github.com/karkidipak/Portable-AI-Based-Driver-Drowsiness-and-Distraction-Detection-System) | Python · OpenCV | Supervisor |
+| [AI-Based Mouse and Keyboard](https://github.com/alal23120126-cell/Twenty3) | Python · OpenCV | Supervisor |
+| [Real-Time Weapon Detection System (YOLO)](https://github.com/torjoymorshad/weapon-detection-yolo) | Python · YOLO | Supervisor |
+| [*Project Title (Team INNOVEXA)*](https://github.com/taimurahman740-art/Team-INNOVEXA) | *Stack* | Supervisor |
+| [Your Erasmus Guide](https://github.com/rodgersprofessor/your-erasmus-guide) | TypeScript | Main |
+| 🔒 `blockchainlive` | Python | Main |
+| 🔒 `blockdemo` | Python | Main |
 <sub>🔒 = private for now · teaching repos are opened up as courses go public</sub>
-
----
-
-### 🤝 Collaborations - Will Update Soon
-
-| Project | With | My role |
-|---|---|---|
-| `project-name` | *collaborator / organisation* | *e.g. co-author, security review, smart contracts* |
-| `project-name` | *collaborator / organisation* | *role* |
-| `project-name` | *collaborator / organisation* | *role* |
-
-<!-- For a clickable link, replace `project-name` with [repo-name](https://github.com/owner/repo-name) -->
 
 ---
 
