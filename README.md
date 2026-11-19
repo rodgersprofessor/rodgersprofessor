@@ -104,7 +104,7 @@ for idx, period, data in blocks:
 | [Portable AI-Based Driver Drowsiness and Distraction Detection System](https://github.com/karkidipak/Portable-AI-Based-Driver-Drowsiness-and-Distraction-Detection-System) | Python · OpenCV | Supervisor |
 | [AI-Based Mouse and Keyboard](https://github.com/alal23120126-cell/Twenty3) | Python · OpenCV | Supervisor |
 | [Real-Time Weapon Detection System (YOLO)](https://github.com/torjoymorshad/weapon-detection-yolo) | Python · YOLO | Supervisor |
-| [*Project Title (Team INNOVEXA)*](https://github.com/taimurahman740-art/Team-INNOVEXA) | *Stack* | Supervisor |
+| [AI/ML campus maintenance system for reporting, classifying, prioritizing, and managing university facility](https://github.com/taimurahman740-art/Team-INNOVEXA) | *Stack* | Supervisor |
 | [Your Erasmus Guide](https://github.com/rodgersprofessor/your-erasmus-guide) | TypeScript | Main |
 | 🔒 `blockchainlive` | Python | Main |
 | 🔒 `blockdemo` | Python | Main |
