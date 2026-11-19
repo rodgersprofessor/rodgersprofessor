@@ -91,6 +91,10 @@ for idx, period, data in blocks:
 | ⛓️ **Blockchain** | Decentralised systems, smart contracts, blockchain in AI-driven environments |
 | 🤖 **AI** | AI agents, AI workflow, agent security, AI applications — and everything else AI |
 | 🛡️ **Security** | Network security infrastructure, IT governance, compliance (ISO, ODPC) |
+| 💻 **Development** | Software engineering, Python & TypeScript applications, APIs, workflow automation |
+| 🌱 **Open-Source Development** | Community contributions, open tooling, public teaching & research repositories |
+| 🐧 **Linux** | System administration, shell scripting, server hardening, networking & security tooling |
+| 🖥️ **Infrastructure & Homelab** | Virtualization, self-hosted services, containerization, isolated network & security testbeds |
 | 🎓 **Education** | Curriculum design, mentorship systems, SDG 4 |
 
 ---
@@ -104,6 +108,7 @@ for idx, period, data in blocks:
 | [Portable AI-Based Driver Drowsiness and Distraction Detection System](https://github.com/karkidipak/Portable-AI-Based-Driver-Drowsiness-and-Distraction-Detection-System) | Python · OpenCV | Supervisor |
 | [AI-Based Mouse and Keyboard](https://github.com/alal23120126-cell/Twenty3) | Python · OpenCV | Supervisor |
 | [Real-Time Weapon Detection System (YOLO)](https://github.com/torjoymorshad/weapon-detection-yolo) | Python · YOLO | Supervisor |
+| [Speed Camera Detection System](https://github.com/visionX77/Speed-Camera-detection) | Python · OpenCV | Supervisor |
 | [AI/ML campus maintenance system for reporting, classifying, prioritizing, and managing university facility](https://github.com/taimurahman740-art/Team-INNOVEXA) | *Stack* | Supervisor |
 | [Your Erasmus Guide](https://github.com/rodgersprofessor/your-erasmus-guide) | TypeScript | Main |
 | 🔒 `blockchainlive` | Python | Main |
